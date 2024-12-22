@@ -97,7 +97,3 @@ For a practical demonstration of our research, you can interact with our Wildfir
 
 ---
 
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
